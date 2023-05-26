@@ -1,2 +1,2 @@
-# kartinapp
+# kratinapp
 java
